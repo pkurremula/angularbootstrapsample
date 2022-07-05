@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+
+.header{
+    background-color: blue;
+    height: 40px;
+}
+
+.content{
+    min-height: 500px;
+}
+
+.main-content{
+    background-color:yellow;
+    min-height: 500px;
+}
+
+.footer{
+    height :40px;
+    background-color: blueviolet;
+}
